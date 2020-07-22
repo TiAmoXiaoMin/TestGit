@@ -5,6 +5,7 @@ public class Happy {
 		System.out.println("right ...");
 		System.out.println("left ...");
 		System.out.println("left123 ...");
+		System.out.println("123321");
 	}
 
 }
